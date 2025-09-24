@@ -164,12 +164,12 @@ We're building the future of AI-powered documentation. Join our community:
 ## Support
 
 - **Documentation**: [cli.conotion.ai](https://cli.conotion.ai/docs)
-- 💬 **Community**: [Discord](https://discord.gg/EUQPv3ET)
-- 📧 **Email**: support@conotion.ai
+- **Community**: [Discord](https://discord.gg/EUQPv3ET)
+- **Email**: contact@conotion.ai
 
 ---
 
 ## License
 
-© 2024 Conotion AI. All rights reserved.
+© 2025 Conotion AI. All rights reserved.
 Use is subject to [Conotion's Commercial Terms of Service](./LICENSE).
