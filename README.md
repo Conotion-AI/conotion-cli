@@ -2,13 +2,14 @@
 
 > **The AI-powered documentation generator that transforms your code into professional docs in seconds.**
 
-[![npm version](https://badge.fury.io/js/@conotion%2Fcli.svg)](https://badge.fury.io/js/@conotion%2Fcli)
-[![Node.js Version](https://img.shields.io/node/v/@conotion/cli.svg)](https://nodejs.org/)
-[![License](https://img.shields.io/badge/license-Commercial-blue.svg)](./LICENSE)
+```bash
+npm install -g @conotion/cli
+```
 
 ## What is Conotion AI?
 
 Conotion AI is the **world's most advanced AI documentation platform** that automatically generates comprehensive technical documentation, API references, and security reports for your projects. Our CLI brings the power of AI model (Mistral) directly to your terminal.
+
 
 ### Perfect for:
 - **Developers** who want instant, high-quality documentation
@@ -165,7 +166,7 @@ We're building the future of AI-powered documentation. Join our community:
 
 - **Documentation**: [cli.conotion.ai](https://cli.conotion.ai/docs)
 - **Community**: [Discord](https://discord.gg/EUQPv3ET)
-- **Email**: contact@conotion.ai
+- **Email**: support@conotion.ai
 
 ---
 
